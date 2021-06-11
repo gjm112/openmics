@@ -1,0 +1,13 @@
+name: openmics
+title: openmics
+username:
+account: gjm112
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4196197
+bundleId: 4689738
+url: https://gjm112.shinyapps.io/openmics/
+when: 1623104028.42234
+lastSyncTime: 1623104028.42235
+asMultiple: FALSE
+asStatic: FALSE
